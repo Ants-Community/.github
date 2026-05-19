@@ -19,7 +19,7 @@ We are a colony.
 
 - 📜 **[The ANTS Manifesto](https://github.com/Ants-Community/ants/blob/main/MANIFESTO.md)** — read this first.
 - 🐜 **[Protocol repository](https://github.com/Ants-Community/ants)** — specification, RFCs, design discussions.
-- 💬 **Matrix room** — `#ants-community:matrix.org` *(opening soon)*
+- 💬 **Matrix Space** — [#ants-community:matrix.org](https://matrix.to/#/#ants-community:matrix.org) · two public rooms: `#General`, `#Random`
 - 🌐 **[ants.community](https://ants.community)** *(coming soon)*
 
 ### Contributing
